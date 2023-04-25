@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate frontend developer currently focused on React andTypeScript. I enjoy exploring and experimenting with the latest technologies that can make the development process and productseven better!
+I'm a passionate frontend developer currently focused on React and TypeScript. I enjoy exploring and experimenting with the latest technologies that can make the development process and products even better!
 
 ### ⚙️ Tech Stack
 
